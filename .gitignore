@@ -2,8 +2,11 @@
 vendor/
 .bundle/
 Gemfile.lock
+
 工程师之路.html
 工程师之路.pdf
+
+
 *_build.sh
 # /images/
 fonts.tar.gz
